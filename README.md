@@ -15,12 +15,15 @@ This project aims to detect toxic messages in multiplayer game chat using machin
 - `models/` - saved trained models
 - `report/` - project report (PDF)
 
+## 🎥 Dataset
+
+📎 View [(https://drive.google.com/file/d/1gRbA7XoZEXAMPLE_LINKID/view?usp=sharing)
+](https://drive.google.com/file/d/1Z4ezG-_28_vaigutxEYYfRjieSSkCD94/view?usp=sharing)
+
 ## 🛠️ Requirements
 Install dependencies:
 ```bash
 pip install -r requirements.txt
 
-## 🎥 Dataset
 
-📎 View [(https://drive.google.com/file/d/1gRbA7XoZEXAMPLE_LINKID/view?usp=sharing)
-](https://drive.google.com/file/d/1Z4ezG-_28_vaigutxEYYfRjieSSkCD94/view?usp=sharing)
+
